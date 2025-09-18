@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fboard\u002F[type]","\u002Fboard\u002F[type]\u002F[id]","\u002Fboard\u002F[type]\u002Fwrite"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
