@@ -1,13 +1,13 @@
 self.__BUILD_MANIFEST = {
   "/_error": [
-    "./static/chunks/f0b4d2a4df42f3b5.js"
+    "./static/chunks/84210585bc612c20.js"
   ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/sblunionprototype.github.io//_next/:path+",
-        "destination": "/sblunionprototype.github.io/_next/:path+"
+        "source": "//sblunionprototype.github.io//_next/:path+",
+        "destination": "//sblunionprototype.github.io/_next/:path+"
       }
     ],
     "fallback": []
