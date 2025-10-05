@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fadmin\u002Fmembers\u002F[id]","\u002Fadmin\u002Freports\u002F[id]","\u002Fboard\u002F[type]","\u002Fboard\u002F[type]\u002F[id]","\u002Fboard\u002F[type]\u002Fwrite","\u002Fsurveyresult\u002F[id]","\u002Fvoteandsurvey\u002F[tab]\u002F[id]","\u002Fvoteresult\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
